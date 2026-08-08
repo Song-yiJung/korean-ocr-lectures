@@ -1,0 +1,24 @@
+# 열쇠 — 절대 올리지 않습니다
+*.json
+!*.ipynb
+.env
+*-key.json
+ocr-workshop-*.json
+service-account*.json
+
+# 실행 결과
+out/
+step0_사진/
+step1_비전/
+step2_교정/
+결과/
+*.zip
+
+# 원본 자료 (용량이 커서 저장소에 두지 않습니다)
+data/*.pdf
+!data/drag/*.pdf
+
+# 기타
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
