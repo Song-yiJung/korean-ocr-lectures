@@ -10,8 +10,8 @@ Google Cloud Vision과 Gemini를 이어 붙여, 1930년대 일본어 행정문�
 
 | | 하는 일 | 시간 |
 |---|---|---|
-| **[Step 1 — Vision OCR](step1_vision/step1_vision_colab_20260813.ipynb)** | 이미지에서 1차 텍스트를 뽑는다 | 22분 |
-| **[Step 2 — Gemini 교정](step2_gemini/step2_gemini_colab_20260813.ipynb)** | 원본과 대조해 문맥에 맞게 고친다 | 15분 |
+| **[Step 1 — Vision OCR](step1_vision_colab_20260813.ipynb)** | 이미지에서 1차 텍스트를 뽑는다 | 22분 |
+| **[Step 2 — Gemini 교정](step2_gemini_colab_20260813.ipynb)** | 원본과 대조해 문맥에 맞게 고친다 | 15분 |
 
 직접 고치는 셀은 Step 1에서 하나, Step 2에서 둘뿐이다. 나머지 셀 제목에는 `[실행만]`이 붙어 있다.
 
